@@ -1,7 +1,7 @@
 # FDMdish
 A 3D printable parabolic dish antenna, written in OpenSCAD, with examples rendered for immediate print.
 
-![](img/FreeCAD_F250_front.png)
+![](img/FreeCAD_F500_front.png)
 
 FDMdish is a 3D printable, scalable parabolic reflector surface system suitable for use in a high gain radio antenna setup.
 The parametric model is generated in OpenSCAD, STLs can be rendered/exported and used to generate tiles that can be 3D printed. The accompanying Cura slicer settings have been optimised for high speed printing, using a low volume of material for high paraboloid surface accuracy up to ~10Ghz (maybe 20GHz, requires testing).

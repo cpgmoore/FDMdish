@@ -11,8 +11,6 @@ The parametric model is generated in OpenSCAD, STLs can be rendered/exported and
 The tiles are mounted to a frame of 2020 aluminium extrusion.
 Use some currently unknown method to place the RF antenna feed at the focal point.
 
-Oh, and FDM is for FreeDoM.
-
 | ![](img/FreeCAD_F250_back.png)  | ![](img/FreeCAD_F250_detail.png)  |
 |:-:|:-:|
 | Rear view, showing supports | Tiles are labeled |
